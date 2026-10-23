@@ -1,0 +1,19 @@
+{
+  "name": "skt-delhi-edition-landing-page",
+  "version": "1.0.0",
+  "description": "RED & REGA Delhi Edition Landing Page - Cloned from skt.zaptriq.in",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js",
+    "verify": "node verify_assets.js"
+  },
+  "keywords": [
+    "landing-page",
+    "skt",
+    "real-estate-dominator",
+    "rega"
+  ],
+  "author": "",
+  "license": "ISC"
+}
